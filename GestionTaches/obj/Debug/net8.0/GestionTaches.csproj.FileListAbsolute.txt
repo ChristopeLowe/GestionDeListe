@@ -1,0 +1,14 @@
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\bin\Debug\net8.0\GestionTaches.exe
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\bin\Debug\net8.0\GestionTaches.deps.json
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\bin\Debug\net8.0\GestionTaches.runtimeconfig.json
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\bin\Debug\net8.0\GestionTaches.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\bin\Debug\net8.0\GestionTaches.pdb
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.AssemblyInfoInputs.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.AssemblyInfo.cs
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.csproj.CoreCompileInputs.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\refint\GestionTaches.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.pdb
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\GestionTaches.genruntimeconfig.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\GestionTaches\obj\Debug\net8.0\ref\GestionTaches.dll
